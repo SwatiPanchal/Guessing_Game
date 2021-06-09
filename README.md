@@ -1,5 +1,5 @@
 # Guessing_Game
-Its a 3 digit number guessing game
+Its a simple 3 digit number guessing game
 
 1. The computer will think of 3 digit number that has no repeating digits.
 2. You will then guess a 3 digit number
